@@ -49,6 +49,7 @@ Identify seasonal travel patterns.
 Support data-driven aviation planning and decision-making.
 # (iii) Walkthrough of Key Visuals
 # •Executive Overview Dashboard
+![Executive Overview](https://github.com/Robin1311-jaiswal/European-Flights-Analytics-Dashboard-Power-BI-DAX-Excel/raw/main/1.%20Executive%20Overview%20Dashboard.png)
  Key KPIs
 Total Flights: 87.06M
 Airports Tracked: 333
@@ -78,6 +79,7 @@ Compares aviation activity across countries.
 Spain generated the highest flight traffic volume.
 
 # •Airport Performance Dashboard
+![Airport Performance](https://github.com/Robin1311-jaiswal/European-Flights-Analytics-Dashboard-Power-BI-DAX-Excel/raw/main/2.Airport%20Performance%20Dashboard.png)
 •Key KPIs
 Busiest Airport
 Airport Market Share %
