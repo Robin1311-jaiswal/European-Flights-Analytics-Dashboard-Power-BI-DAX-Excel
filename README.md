@@ -48,8 +48,8 @@ Measure COVID-19 impact and recovery.
 Identify seasonal travel patterns.
 Support data-driven aviation planning and decision-making.
 # (iii) Walkthrough of Key Visuals
-# Executive Overview Dashboard
-# Key KPIs
+# •Executive Overview Dashboard
+ Key KPIs
 Total Flights: 87.06M
 Airports Tracked: 333
 Countries Covered: 42
@@ -58,120 +58,104 @@ Total Departures: 43.5M
 
 These KPIs provide a high-level summary of European aviation activity during the study period.
 
-# Monthly Flight Trend
-
+•Monthly Flight Trend
 Displays aggregated monthly flight activity across all years.
 
-Key observation:
-
+•Key observation:
 Flight activity peaks during summer months.
 Lower traffic is observed during winter periods.
-# Top 5 Airports by Total Movements
 
+•Top 5 Airports by Total Movements
 Highlights the busiest airports in Europe.
 
-Key observation:
-
+•Key observation:
 Amsterdam Schiphol consistently records the highest traffic volume.
-# Top 5 Countries by Total Flights
 
+•Top 5 Countries by Total Flights
 Compares aviation activity across countries.
 
-Key observation:
-
+•Key observation:
 Spain generated the highest flight traffic volume.
-# Airport Performance Dashboard
-# Key KPIs
+
+# •Airport Performance Dashboard
+•Key KPIs
 Busiest Airport
 Airport Market Share %
 Average Flights per Airport
 Total Airports
-# Airport Ranking Analysis
 
+•Airport Ranking Analysis
 Ranks airports by total flight movements.
 
 Key observation:
-
 Traffic is concentrated among a small number of major hub airports.
-# Departures vs Arrivals Analysis
 
+•Departures vs Arrivals Analysis
 Compares operational balance across major airports.
 
-# Airport Market Share Analysis
-
+•Airport Market Share Analysis
 Evaluates each airport's contribution to total European traffic.
 
-# Country Analysis Dashboard
-# Key KPIs
+# •Country Analysis Dashboard
+•Key KPIs
 Top Traffic Country
 Average Flights per Country
 Country Market Share %
 Total Countries
-# Flights by Country
 
+•Flights by Country
 Ranks countries based on total flight volume.
 
-# Airport Distribution by Country
-
+•Airport Distribution by Country
 Shows how airport infrastructure varies across countries.
 
-# Country Share Analysis
-
+•Country Share Analysis
 Highlights the concentration of aviation activity among leading countries.
 
-# Traffic Trend by Country
-
+•Traffic Trend by Country
 Compares country performance over time and reveals the impact of COVID-19.
 
-# COVID-19 Impact Dashboard
-# Key KPIs
+# •COVID-19 Impact Dashboard
+•Key KPIs
 Pre-COVID Peak (2019): 17.2M Flights
 COVID Crash (2020): 7.42M Flights
 Traffic Recovery (2021): 9.25M Flights
 Recovery Rate (2021): 53.84%
-# Total Flights by Year
 
+•Total Flights by Year
 Shows the dramatic decline in traffic during 2020.
 
-# Year-over-Year Flight Change
-
+•Year-over-Year Flight Change
 Highlights annual gains and losses.
 
-Key observation:
-
+•Key observation:
 2020 experienced the largest decline in aviation activity.
-# Monthly Comparison (2019 vs 2020)
 
+•Monthly Comparison (2019 vs 2020)
 Compares monthly traffic before and during the pandemic.
 
-# Recovery Trajectory (2020–2022)
-
+•Recovery Trajectory (2020–2022)
 Tracks aviation recovery following the COVID-19 disruption.
 
-# Seasonality Analysis Dashboard
-# Key KPIs
+# •Seasonality Analysis Dashboard
+•Key KPIs
 Peak Month: August
 Off-Peak Month: December
 Peak Quarter: Q3
 Average Monthly Flights: 7.25M
 Peak vs Off-Peak Difference: 34.22%
 Seasonal Gap: 2.10M Flights
-# Monthly Seasonality Trend
-
+•Monthly Seasonality Trend
 Illustrates recurring seasonal traffic patterns.
 
-# Seasonality Heatmap
-
+• Seasonality Heatmap
 Displays monthly flight intensity across years.
-
 Key observation:
-
 Summer months consistently experience the highest traffic volume.
-# Peak vs Off-Peak Analysis
-
+•Peak vs Off-Peak Analysis
 Compares high-demand and low-demand travel periods.
 
-# Pre-COVID vs Post-COVID Seasonal Comparison
+•Pre-COVID vs Post-COVID Seasonal Comparison
 
 Examines how seasonal travel patterns changed following COVID-19.
 
