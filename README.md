@@ -99,6 +99,7 @@ Compares operational balance across major airports.
 Evaluates each airport's contribution to total European traffic.
 
 # •Country Analysis Dashboard
+![Country Analysis](https://github.com/Robin1311-jaiswal/European-Flights-Analytics-Dashboard-Power-BI-DAX-Excel/raw/main/3.Country%20Analysis.png)
 •Key KPIs
 Top Traffic Country
 Average Flights per Country
@@ -118,6 +119,7 @@ Highlights the concentration of aviation activity among leading countries.
 Compares country performance over time and reveals the impact of COVID-19.
 
 # •COVID-19 Impact Dashboard
+![COVID Impact](https://github.com/Robin1311-jaiswal/European-Flights-Analytics-Dashboard-Power-BI-DAX-Excel/raw/main/4.Covid%2019%20Impact%20analysis.png)
 •Key KPIs
 Pre-COVID Peak (2019): 17.2M Flights
 COVID Crash (2020): 7.42M Flights
@@ -140,6 +142,8 @@ Compares monthly traffic before and during the pandemic.
 Tracks aviation recovery following the COVID-19 disruption.
 
 # •Seasonality Analysis Dashboard
+
+![Seasonality](https://github.com/Robin1311-jaiswal/European-Flights-Analytics-Dashboard-Power-BI-DAX-Excel/raw/main/5.Seasonality%20Dashboard.png)
 •Key KPIs
 Peak Month: August
 Off-Peak Month: December
@@ -170,4 +174,4 @@ Examines how seasonal travel patterns changed following COVID-19.
 -August is the busiest month while December records the lowest traffic volume.
 -Peak-month traffic is 34.2% higher than off-peak traffic, highlighting strong seasonal demand.
 Q3 consistently records the highest aviation activity due to summer tourism and holiday travel.
-# 5. Dashboard Screenshots
+
